@@ -26,5 +26,5 @@ This script is meant for practice and learning how to:
 ## ▶️ Sample Output
 
 ```python
-Index of 30: 4
+Index of 30: 3
 
